@@ -29,6 +29,9 @@ Extraction, cleaning and analysis of Bloomberg P&L data for HEIA NA Equity (FY20
 - Revenue trend across FY2017-FY2024 is analysed by region and line item in the dashboard
 - Profit and margin movements are tracked year-wise in the Excel P&L model
 - Detailed insights and recommendations for the CFO are in the project report
+  ## Dashboard
+![Dashboard Overview](Screenshot%202026-11-04%20152943.png)
+![Dashboard Detail](Screenshot%202026-11-04%20153032.png)
   
 ## Author
 Meghna Tripathi
