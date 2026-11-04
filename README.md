@@ -26,10 +26,14 @@ Extraction, cleaning and analysis of Bloomberg P&L data for HEIA NA Equity (FY20
 | Bloomberg_PL_Data_Extraction_Project_Brief_HEIA.pdf | Project brief |
 
 ## Key Findings
-- Revenue trend across FY2017-FY2024 is analysed by region and line item in the dashboard
-- Profit and margin movements are tracked year-wise in the Excel P&L model
-- Detailed insights and recommendations for the CFO are in the project report
-  ## Dashboard
+- ## Key Findings
+- Net revenue grew at a 3.4% CAGR (EUR 21,880 mn to EUR 27,640 mn, FY2017-FY2024)
+- Since FY2019, all growth came from price and mix (+EUR 5,159 mn) while volume fell (-EUR 1,489 mn)
+- Operating margin dropped from 13.7% (FY2019) to 8.7% (FY2024); gross margin (-3.3 pp) and distribution and logistics (-1.4 pp) did the most damage
+- Americas added the most revenue (+EUR 1,618 mn), while AMEE declined (-EUR 688 mn)
+- Data quality: logged 20 defects (excise sign, unit error, duplicates, placeholders) and reconciled all checks across 8 years
+
+## Dashboard
 ![Dashboard Overview](Screenshot%202026-11-04%20152943.png)
 ![Dashboard Detail](Screenshot%202026-11-04%20153032.png)
   
